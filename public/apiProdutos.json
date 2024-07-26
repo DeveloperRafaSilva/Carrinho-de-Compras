@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "categoria": "Waffe",
+    "nome": "Waffe with berries",
+    "preco": 6.50,
+    "src": "image-baklava-desktop.jpg",
+    "alt": "Imagem Waffe",
+    "quantidade":0
+  },
+  {
+    "id": 1,
+    "categoria": "Créme Brúlle",
+    "nome": "Vanilla bean Créme Brúlle",
+    "preco": 7.00,
+    "src": "image-brownie-desktop.jpg", 
+    "alt": "Imagem Créme Brúlle",
+    "quantidade":0
+  },
+  {
+    "id": 2,
+    "categoria": "Macaron",
+    "nome": "Camaron Mix of Five",
+    "preco": 8.00,
+    "src": "image-baklava-desktop.jpg", 
+    "alt": "Imagem Macaron",
+    "quantidade":0
+  },
+  {
+    "id": 3,
+    "categoria": "Tiramissu",
+    "nome": "Classic Tiramiss",
+    "preco": 5.50,
+    "src": "image-cake-desktop.jpg", 
+    "alt": "Imagem Tiramissu",
+    "quantidade":0
+  },
+  {
+    "id": 4,
+    "categoria": "Baklava",
+    "nome": "Pistachu Baklava",
+    "preco": 4.50,
+    "src": "image-baklava-desktop.jpg", 
+    "alt": "Imagem Baklava",
+    "quantidade":0
+  },
+  {
+    "id": 5,
+    "categoria": "Pie",
+    "nome": "Lemon Miringue Pie",
+    "preco": 5.00,
+    "src": "image-cake-desktop.jpg", 
+    "alt": "Imagem Lemon Miringue Pie",
+    "quantidade":0
+  },
+  {
+    "id": 6,
+    "categoria": "Pie",
+    "nome": "Lemon Miringue Pie",
+    "preco": 5.00,
+    "src": "image-brownie-desktop.jpg", 
+    "alt": "Imagem Lemon Miringue Pie",
+    "quantidade":0
+  },
+  {
+    "id": 7,
+    "categoria": "Cake",
+    "nome": "Red Velvet Cake",
+    "preco": 4.50,
+    "src": "image-baklava-desktop.jpg", 
+    "alt": "Imagem Red Velvet Cake",
+    "quantidade":0
+  },
+  {
+    "id": 8,
+    "categoria": "Brownie",
+    "nome": "Sed Caramel Brownie",
+    "preco": 5.50,
+    "src": "image-brownie-desktop.jpg", 
+    "alt": "Imagem Sed Caramel Brownie",
+    "quantidade":0
+  }
+]
